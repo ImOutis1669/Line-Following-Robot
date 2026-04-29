@@ -73,20 +73,8 @@ This project was developed as part of a **collaborative team effort**, involving
 My contributions focused on:
 - Embedded system implementation and control logic  
 - Sensor integration and system behaviour testing  
-- Debugging and validating system performance  
-
----
-
-##  Project Structure
-
-
-Full Multifunctional Robot Solution/ → Main implementation
-Proteus Simulation/ → Simulation files
-PCB Designs/ → Hardware designs
-RELEVANT LIBRARIES/ → Required libraries
-docs/ → Documentation
-
-
+- Debugging and validating system performance
+  
 ---
 
 ##  Key Learnings
